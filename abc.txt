@@ -1,3 +1,2 @@
 hi git
-<<<<<<< HEAD
-i'm khoa and nhut haha
+
